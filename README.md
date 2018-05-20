@@ -19,4 +19,4 @@ This project focuses on data preparation (feature engineering, dealing with miss
 
 The data for this project was obtained from [Kaggle](https://www.kaggle.com/c/predicting-cab-booking-cancellations). The business problem tackled here is trying to improve customer service for YourCabs.com, a cab company in Bangalore. The problem of interest is booking cancellations by the company due to unavailability of a car. 
 
-The main focus of this project is exploratory data analysis of the data.
+The main focus of this project is exploratory data analysis.
