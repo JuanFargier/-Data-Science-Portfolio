@@ -21,7 +21,7 @@ This project focuses on data preparation (feature engineering, dealing with miss
 
 ## Cab Booking Cancellations
 
-[Github]() - [nbviewer](http://nbviewer.jupyter.org/github/JuanFargier/Data-Science-Portfolio/blob/master/Cab_Booking_Cancellations.ipynb)
+[Github](https://github.com/JuanFargier/Data-Science-Portfolio/blob/master/Cab_Booking_Cancellations.ipynb) - [nbviewer](http://nbviewer.jupyter.org/github/JuanFargier/Data-Science-Portfolio/blob/master/Cab_Booking_Cancellations.ipynb)
 
 Cab Booking Cancellations uses data from [Kaggle](https://www.kaggle.com/c/predicting-cab-booking-cancellations). The business problem tackled here is trying to improve customer service for YourCabs.com, a cab company in Bangalore. The problem of interest is booking cancellations by the company due to unavailability of a car. 
 
@@ -29,12 +29,12 @@ The main focus of this project is exploratory data analysis.
 
 ## Emergency - 911 Calls
 
-[Github]() - [nbviewer](http://nbviewer.jupyter.org/github/JuanFargier/Data-Science-Portfolio/blob/master/911_calls.ipynb)
+[Github](https://github.com/JuanFargier/Data-Science-Portfolio/blob/master/911_calls.ipynb) - [nbviewer](http://nbviewer.jupyter.org/github/JuanFargier/Data-Science-Portfolio/blob/master/911_calls.ipynb)
 
 Exploratory Data Analysis of the 911 calls dataset hosted on [Kaggle](https://www.kaggle.com/mchirico/montcoalert/data).
 
 ## Back Stock Prices
 
-[Github]() - [nbviewer]()
+[Github](https://github.com/JuanFargier/Data-Science-Portfolio/blob/master/Bank_Stocks.ipynb)
 
 This project focuses on exploratory data analysis of stock prices using pandas, Seaborn and Plotly. Specifically on bank stocks and how they progressed throughout the financial crisis all the way to early 2016.
