@@ -24,3 +24,7 @@ The main focus of this project is exploratory data analysis.
 ## Emergency - 911 Calls
 
 Exploratory Data Analysis of the 911 calls dataset hosted on [Kaggle](https://www.kaggle.com/mchirico/montcoalert/data).
+
+## Back Stock Prices
+
+This project focuses on exploratory data analysis of stock prices using pandas, Seaborn and Plotly. Specifically on bank stocks and how they progressed throughout the financial crisis all the way to early 2016.
