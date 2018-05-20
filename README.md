@@ -10,6 +10,6 @@ This project includes examples of Exploratory Data Analysis, Data Cleaning, Feat
 
 ## House Prices: Advanced Regression Techniques
 
-House Prices: Advanced Regression Techniques is a knowledge competition on Kaggle. This is a regression problem: based on 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa we apply different regression algorithms to predict their sale price. General description and data are available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). The dataset has a lot of features and many missing values. This gives interesting possibilities for feature transformation and data visualization.
+[House Prices: Advanced Regression Techniques](https://github.com/JuanFargier/Data-Science-Portfolio/blob/master/House_Prices.ipynb) is a knowledge competition on Kaggle. This is a regression problem: based on 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa we apply different regression algorithms to predict their sale price. General description and data are available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). The dataset has a lot of features and many missing values. This gives interesting possibilities for feature transformation and data visualization.
 
 This project focuses on data preparation (feature engineering, dealing with missing values, etc.) and application of linear regression (including Ridge Regression and the Lasso) to predict the sale price of the houses.
