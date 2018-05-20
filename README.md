@@ -20,3 +20,7 @@ This project focuses on data preparation (feature engineering, dealing with miss
 [Cab Booking Cancellations](https://www.kaggle.com/c/predicting-cab-booking-cancellations) uses data from [Kaggle](https://www.kaggle.com/c/predicting-cab-booking-cancellations). The business problem tackled here is trying to improve customer service for YourCabs.com, a cab company in Bangalore. The problem of interest is booking cancellations by the company due to unavailability of a car. 
 
 The main focus of this project is exploratory data analysis.
+
+## Emergency - 911 Calls
+
+Exploratory Data Analysis of the 911 calls dataset hosted on [Kaggle](https://www.kaggle.com/mchirico/montcoalert/data).
