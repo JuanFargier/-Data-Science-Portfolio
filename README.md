@@ -35,6 +35,6 @@ Exploratory Data Analysis of the 911 calls dataset hosted on [Kaggle](https://ww
 
 ## Back Stock Prices
 
-[Github](https://github.com/JuanFargier/Data-Science-Portfolio/blob/master/Bank_Stocks.ipynb)
+[Github](https://github.com/JuanFargier/Data-Science-Portfolio/blob/master/Bank_Stocks.ipynb) - [nbviewer](http://nbviewer.jupyter.org/github/JuanFargier/Data-Science-Portfolio/blob/dc13c0a58ba1add6d58b02f08916a8da91b614e5/Bank_Stocks.ipynb)
 
 This project focuses on exploratory data analysis of stock prices using pandas, Seaborn and Plotly. Specifically on bank stocks and how they progressed throughout the financial crisis all the way to early 2016.
