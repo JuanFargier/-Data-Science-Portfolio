@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-This repository is a compilation of data science notebooks I created for self-learning purposes. Presented in the form of Jupyter Notebooks.
+This repository is a compilation of data science projects I created for self-learning purposes. Presented in the form of Jupyter Notebooks.
 
 ## Titanic: Machine Learning from Disaster
 
