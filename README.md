@@ -1,6 +1,16 @@
 # Data-Science-Portfolio
 This repository is a compilation of data science projects I created for self-learning purposes. Presented in the form of Jupyter Notebooks.
 
+
+## California Housing Prices
+
+[Github](https://github.com/JuanFargier/Data-Science-Portfolio/blob/master/California_Housing.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/JuanFargier/Data-Science-Portfolio/blob/master/California_Housing.ipynb)
+
+The goal of this project is creating a model to predict the median housing price in any given district in California, it includes Exploratory Data Analysis, Data Cleaning, Feature Engineering, Machine Learning Algorithms for regression (linear regression, decision trees, random forests, XGBoost, among others), etc. using Python and several of its data science libraries.
+
+This project's dataset is a modified version of the California Housing dataset available from [Luís Torgo's page](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html) (University of Porto). Luís Torgo obtained it from the StatLib repository (which is closed now). The dataset may also be downloaded from StatLib mirrors.
+
+
 ## Titanic: Machine Learning from Disaster
 
 [Github](https://github.com/JuanFargier/Data-Science-Portfolio/blob/master/Titanic.ipynb) - [nbviewer](http://nbviewer.jupyter.org/github/JuanFargier/Data-Science-Portfolio/blob/master/Titanic.ipynb)
@@ -27,16 +37,18 @@ Cab Booking Cancellations uses data from [Kaggle](https://www.kaggle.com/c/predi
 
 The main focus of this project is exploratory data analysis.
 
+
 ## Emergency - 911 Calls
 
 [Github](https://github.com/JuanFargier/Data-Science-Portfolio/blob/master/911_calls.ipynb) - [nbviewer](http://nbviewer.jupyter.org/github/JuanFargier/Data-Science-Portfolio/blob/master/911_calls.ipynb)
 
 Exploratory Data Analysis of the 911 calls dataset hosted on [Kaggle](https://www.kaggle.com/mchirico/montcoalert/data).
 
-## Back Stock Prices
+
+## Bank Stock Prices
 
 [Github](https://github.com/JuanFargier/Data-Science-Portfolio/blob/master/Bank_Stocks.ipynb) - [nbviewer](http://nbviewer.jupyter.org/github/JuanFargier/Data-Science-Portfolio/blob/dc13c0a58ba1add6d58b02f08916a8da91b614e5/Bank_Stocks.ipynb)
 
-This project focuses on exploratory data analysis of stock prices using pandas, Seaborn and Plotly. Specifically on bank stocks and how they progressed throughout the financial crisis all the way to early 2016.
+This project focuses on exploratory data analysis of stock prices using pandas, Seaborn and Plotly. Specifically, on bank stocks and how they progressed throughout the financial crisis all the way to early 2016.
 
 For a better viewing experience select the nbviewer link.
